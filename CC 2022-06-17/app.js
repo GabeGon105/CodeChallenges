@@ -8,7 +8,7 @@
 
 // Parameters: two arrays of strings composed of letters a to z
 
-// Return: a positive integer 
+// Return: a positive integer
 
 // Example: 
 a1 = ["hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz"]
