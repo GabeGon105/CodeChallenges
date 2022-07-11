@@ -6,7 +6,7 @@
 
 // Parameter: an array of integers
 
-// Return: an integer
+// Return: an integer 
 
 // Example: 
 findLongest([1, 10, 100]) // 100
