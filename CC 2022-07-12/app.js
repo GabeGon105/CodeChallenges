@@ -10,7 +10,7 @@
 
 // Examples: 
 solution({a: 1, b: '2'}) // "a = 1,b = 2"
-solution({z: 5, q: 7, r: 3}) // "z = 5,q = 7,r = 3"
+solution({z: 5, q: 7, r: 3}) // "z = 5,q = 7,r = 3" 
 
 
 
