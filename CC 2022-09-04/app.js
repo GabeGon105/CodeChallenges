@@ -8,7 +8,7 @@
 
 // Parameters: an array of strings
 
-// Return: a string
+// Return: a string 
 
 // Examples:
 twoSort( ["bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"] ) // 'b***i***t***c***o***i***n'
