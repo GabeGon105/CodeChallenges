@@ -2,9 +2,9 @@
 
 
 
-// Parameters: 
+// Parameters: a string
 
-// Return: 
+// Return: a string
 
 // Examples: 
 nameShuffler('jupiter Volcana') // 'Volcana jupiter'
