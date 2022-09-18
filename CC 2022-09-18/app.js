@@ -32,4 +32,4 @@ function divCon(x){
     } );
     
     return sum;
-}
+} 
