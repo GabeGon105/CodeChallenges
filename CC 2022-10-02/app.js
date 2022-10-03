@@ -6,7 +6,7 @@
 
 
 
-// Parameters: an array of integers
+// Parameters: an array of integers 
 
 // Return: an array of integers
 
