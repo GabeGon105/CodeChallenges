@@ -44,6 +44,7 @@ const billy = new Shark("Billy", 3, "Alive and well");
     // billy.status, "Alive and well"
     // billy.introduce(), `Hello, my name is Billy and I am 3 years old.`
 
+    
 
 class Shark extends Animal {
     constructor( name, age, status ) {
