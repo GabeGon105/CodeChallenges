@@ -2,7 +2,7 @@
 
 
 
-// Parameters: a positive integer of any length
+// Parameters: a positive integer of any length 
 
 // Return: the sum of all digits of the argument integer
 
