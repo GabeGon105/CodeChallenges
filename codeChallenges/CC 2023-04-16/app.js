@@ -10,7 +10,7 @@
 
 
 
-// Parameters: given a Dog constructor
+// Parameters: given a Dog constructor 
 
 // Return: adjust the constructor so every Dog has a bark() method that returns 'Woof!'
 
