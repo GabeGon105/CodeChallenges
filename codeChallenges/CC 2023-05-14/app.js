@@ -19,7 +19,7 @@ duplicateCount("Indivisibilities") // 2
 
 const duplicateCount = (string) => {
     // create a variable to hold the output integer and a variable to hold the repeated letters
-    let output = 0;
+    let output = 0; 
     const repeated = [];
 
     // convert argument string to an array, loop through
