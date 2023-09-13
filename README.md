@@ -1,7 +1,8 @@
 # CodeWars Challenges: [Visit Here](https://www.codewars.com/users/GabeGon105)
-![GabeGon105 CodeWars stats](https://github.com/GabeGon105/CodingChallenges/blob/master/codeWarsStats.png?raw=true)
 
-A repository filled with codewars challenges (kata). Completed over 300+ challenges and Push solutions every single day.
+![GabeGon105 CodeWars stats](https://github.com/GabeGon105/CodingChallenges/blob/master/codeWarsStats.jpg?raw=true)
+
+A repository filled with codewars challenges (kata). Completed over 500+ challenges and Push solutions every single day. Top 2.3% on the platform.
 
 ## How It's Made:
 
