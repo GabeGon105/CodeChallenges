@@ -19,4 +19,4 @@ const powerOf4 = (n) => {
     // if typeof n equals 'number' and log(n) / log(4) is a whole integer return true, else return false
     return typeof n === 'number'
         && Number.isInteger( Math.log(n) / Math.log(4) );
-}
+} 
