@@ -11,7 +11,7 @@
 
 
 select number,
-case
+case 
     when (number % 2 = 0) then 'Even'
     when (number % 2 != 0) then 'Odd'
 end as is_even
